@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Engines, Operating System Development, Antivirus Development and Wii Development
 - 🌱 I’m currently learning how to make a industry standard Game Engine
 - 💞️ I’m looking to collaborate on Drizzle2D
-- 📫 Reach me by emailing ronitdsilva@protonmail.com
+- 📫 Reach me
 
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
