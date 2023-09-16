@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cherrytree56567
-- 👀 I’m interested in Game Engines, Operating System Development, Antivirus Development, Graphics and Wii Development
+- 👀 I’m interested in Game Engines, Operating System Development, Antivirus Development, Graphics, Wii Development and Emulation
 - 🌱 I’m currently learning how to make a industry standard Blender-like Ray Tracing Rendering Engine
-- 💞️ I’m looking to collaborate on Drizzle2D
+- 💞️ I’m looking to collaborate on PSEMU
 - 📫 Reach me
 
 <!---
