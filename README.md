@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on PSEMU
 - 📫 Reach me
 
+My Projects:
+- [Zinc](https://github.com/Cherrytree56567/Zinc) (Medium)
+- [TilesRT](https://github.com/Cherrytree56567/TilesRT) (Medium)
+- [FlickZip](https://github.com/Cherrytree56567/FlickZip) (Medium)
+- [Updat.DAT](https://github.com/Cherrytree56567/Updat.NET) (Easy)
+- [PSEMU](https://github.com/Cherrytree56567/PSEMU) (Hard)
+- [Hardware-Manager](https://github.com/Cherrytree56567/Hardware-Manager) (Easy)
+- [Drizzle2D](https://github.com/Cherrytree56567/Drizzle2D) (Hard)
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
