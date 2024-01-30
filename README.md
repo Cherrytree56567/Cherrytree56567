@@ -9,7 +9,8 @@ My Projects:
 - [TilesRT](https://github.com/Cherrytree56567/TilesRT) (Medium)
 - [FlickZip](https://github.com/Cherrytree56567/FlickZip) (Medium)
 - [Updat.DAT](https://github.com/Cherrytree56567/Updat.NET) (Easy)
-- [PSEMU](https://github.com/Cherrytree56567/PSEMU) (Hard)
+- [SimpleTextEditor](https://github.com/Cherrytree56567/SimpleTextEditor) (Easy)
+- [BlockScript](https://github.com/Cherrytree56567/BlockScript) (Easy)
 - [Hardware-Manager](https://github.com/Cherrytree56567/Hardware-Manager) (Easy)
 - [Drizzle2D](https://github.com/Cherrytree56567/Drizzle2D) (Hard)
 <!---
