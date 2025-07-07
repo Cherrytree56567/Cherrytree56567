@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make an OS
 - 💞️ I’m looking to collaborate on Astral OS
 
-```
+```text
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 ```
 <!---
