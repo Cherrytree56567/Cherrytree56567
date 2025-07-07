@@ -19,7 +19,7 @@ jobs:
 
       - name: generate readme
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
         run: ${{ steps.install.outputs.install-path }} -write README.md README.md.tpl
