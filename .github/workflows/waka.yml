@@ -21,8 +21,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
-        run: ${{ steps.install.outputs.install-path }} -write README.md README.md.tpl
+          WAKATIME_URL: ${{ env.WAKATIME_URL }}
+        run: |
+          echo "Global variable: ${{ env.WAKATIME_URL }}"
+          ${{ steps.install.outputs.install-path }} -write README.md README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
