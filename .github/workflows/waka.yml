@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 */1 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   markscribe:
     runs-on: ubuntu-latest
@@ -30,8 +33,6 @@ jobs:
           ${{ steps.install.outputs.install-path }} -write README.md README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           commit_message: Update generated README
           branch: main
