@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CT5
-- 👀 I’m interested in Game Engines, Operating System Development, Antivirus Development, Graphics, Wii Development and Emulation
+- 👀 I’m interested in Game Engines, OSDev, Frontend Websites and Hardware
 - 🌱 I’m currently learning how to make an OS
 - 💞️ I’m looking to collaborate on Astral OS
 
