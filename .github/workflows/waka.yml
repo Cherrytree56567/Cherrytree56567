@@ -14,6 +14,9 @@ jobs:
 
       - uses: 'actions-go/go-install@main'
         id: install
+        env:
+          GOPROXY: "direct"
+          GOSUMDB: "off"
         with:
           module: "github.com/cherrytree56567/markscribe@master"
 
