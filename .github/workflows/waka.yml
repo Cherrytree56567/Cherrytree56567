@@ -23,7 +23,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: "https://hackatime.hackclub.com/api/hackatime/v1"
         run: |
-          echo "Global variable: ${{ secrets.TESTING }}"
+          echo -n "${{ secrets.TESTING }}" | sha256sum
           ${{ steps.install.outputs.install-path }} -write README.md README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
