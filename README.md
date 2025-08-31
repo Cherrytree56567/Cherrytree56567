@@ -1,20 +1,19 @@
-- 👋 Hi, I’m @Cherrytree56567
-- 👀 I’m interested in Game Engines, Operating System Development, Antivirus Development, Graphics, Wii Development and Emulation
-- 🌱 I’m currently learning how to make a 3D Game Engine
-- 💞️ I’m looking to collaborate on Drizzle3D
-- 📫 Reach me at cherrytree56567@proton.me
+- 👋 Hi, I’m @CT5
+- 👀 I’m interested in Game Engines, OSDev, Frontend Websites and Hardware
+- 🌱 I’m currently learning how to make an OS
+- 💞️ I’m looking to collaborate on Astral OS
 
-My Projects:
-- [Zinc](https://github.com/Cherrytree56567/Zinc) (Medium)
-- [FlickZip](https://github.com/Cherrytree56567/FlickZip) (Medium)
-- [Updat.DAT](https://github.com/Cherrytree56567/Updat.NET) (Easy)
-- [SimpleTextEditor](https://github.com/Cherrytree56567/SimpleTextEditor) (Easy)
-- [BlockScript](https://github.com/Cherrytree56567/BlockScript) (Easy)
-- [Hardware-Manager](https://github.com/Cherrytree56567/Hardware-Manager) (Easy)
-- [Drizzle3D](https://github.com/Cherrytree56567/Drizzle3D) (Hard)
-- [DrizzleStudio](https://github.com/Cherrytree56567/DrizzleStudio) (Easy)
-- [Drizzle2D](https://github.com/Cherrytree56567/Drizzle2D) (Hard)
+```text
+💾 Languages:
+Java              11h 22m 0s   █████████████████████████  97.04%
+Markdown          24m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
+JSON              22m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.21%
+Java Properties   6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+Groovy            4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.66%
+
+💼 Projects:
+```
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. 
 --->
