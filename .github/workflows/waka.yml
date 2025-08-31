@@ -25,7 +25,6 @@ jobs:
 
       - name: generate readme
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: "https://hackatime.hackclub.com/api/v1"
         run: |
