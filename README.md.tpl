@@ -5,7 +5,7 @@
 
 💾 Languages:
 ```text
-{{ wakatimeCategoryBar wakatimeData.Languages 5 }}
+{{ 5 | wakatimeCategoryBar wakatimeData.Languages }}
 ```
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
