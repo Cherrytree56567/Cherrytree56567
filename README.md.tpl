@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Clientwarden
 
 ```text
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+{{ wakatimeCategoryBar "💾 Languages:" wakatimeData.Languages }}
 ```
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
