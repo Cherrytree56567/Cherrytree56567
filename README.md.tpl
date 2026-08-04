@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning how to make an Alternatve Bitwarden Client
 - 💞️ I’m looking to collaborate on Clientwarden
 
+💾 Languages:
 ```text
-{{ wakatimeCategoryBar "💾 Languages:" wakatimeData.Languages 5 }}
+{{ wakatimeCategoryBar wakatimeData.Languages 5 }}
 ```
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
