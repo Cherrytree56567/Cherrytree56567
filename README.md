@@ -3,15 +3,13 @@
 - 🌱 I’m currently learning how to make an Alternatve Bitwarden Client
 - 💞️ I’m looking to collaborate on Clientwarden
 
-```text
 💾 Languages:
+```text
 Swift           5h 16m 0s   ███████████░░░░░░░░░░░░░░  42.66%
 C++             5h 12m 0s   ███████████░░░░░░░░░░░░░░  42.06%
 Markdown        2h 26m 0s   █████░░░░░░░░░░░░░░░░░░░░  19.67%
 Objective-C++   1h 36m 0s   ████░░░░░░░░░░░░░░░░░░░░░  13.02%
 CMake           39m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
-
-💼 Projects:
 ```
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
