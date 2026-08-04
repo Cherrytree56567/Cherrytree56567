@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CT5
 - 👀 I’m interested in Game Engines, OSDev, Frontend Websites and Hardware
-- 🌱 I’m currently learning how to make an OS
-- 💞️ I’m looking to collaborate on Astral OS
+- 🌱 I’m currently learning how to make an Alternatve Bitwarden Client
+- 💞️ I’m looking to collaborate on Clientwarden
 
 ```text
 💾 Languages:
