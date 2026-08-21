@@ -5,11 +5,11 @@
 
 💾 Languages:
 ```text
-Swift           6h 17m 0s   █████████████░░░░░░░░░░░░  49.44%
-Lapse           3h 23m 0s   ███████░░░░░░░░░░░░░░░░░░  26.61%
-Objective-C++   1h 47m 0s   ████░░░░░░░░░░░░░░░░░░░░░  14.08%
-Markdown        1h 8m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
-C++             1h 1m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
+Swift           6h 17m 0s   █████████████░░░░░░░░░░░░  49.31%
+Lapse           3h 23m 0s   ███████░░░░░░░░░░░░░░░░░░  26.54%
+Objective-C++   1h 47m 0s   ████░░░░░░░░░░░░░░░░░░░░░  14.05%
+Markdown        1h 8m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.01%
+C++             1h 3m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
 ```
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
