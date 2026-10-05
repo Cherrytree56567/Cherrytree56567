@@ -26,7 +26,7 @@ jobs:
       - name: generate readme
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_URL: "https://hackatime.hackclub.com/api/v1"
+          WAKATIME_URL: "https://hackatime.hackclub.com/api/hackatime/v1"
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           ${{ steps.install.outputs.install-path }} -write README.md README.md.tpl
