@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CT5
-- 👀 I’m interested in Game Engines, OSDev, Frontend Websites and Hardware
-- 🌱 I’m currently learning how to make an Alternatve Bitwarden Client
-- 💞️ I’m looking to collaborate on Clientwarden
+- Hi, I’m @CT5
+- I’m interested in Game Engines, OSDev, Frontend Websites and Hardware
+- I’m currently learning how to make an Alternative Bitwarden Client
+- I’m looking to collaborate on ClientWarden
 
-💾 Languages:
+Languages:
 ```text
 {{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
 ```
