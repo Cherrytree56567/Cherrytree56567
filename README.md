@@ -5,11 +5,11 @@
 
 Languages:
 ```text
-TypeScript   1h 35m 0s   ███████████████░░░░░░░░░░  58.11%
-HTML         56m 0s      █████████░░░░░░░░░░░░░░░░  34.45%
-CSS          55m 0s      █████████░░░░░░░░░░░░░░░░  33.59%
-JSON         10m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
-Python       9m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+TypeScript   2h 10m 0s   █████████████████░░░░░░░░  65.26%
+HTML         58m 0s      ████████░░░░░░░░░░░░░░░░░  29.52%
+CSS          57m 0s      ████████░░░░░░░░░░░░░░░░░  28.75%
+JSON         12m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
+Markdown     10m 0s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
 ```
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
