@@ -5,7 +5,7 @@
 
 Languages:
 ```text
-C++   6m 0s   █████████████████████████  100.00%
+
 ```
 <!---
 Cherrytree56567/Cherrytree56567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
